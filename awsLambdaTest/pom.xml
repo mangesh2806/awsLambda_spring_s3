@@ -10,10 +10,10 @@
 		<relativePath />
 	</parent>
 	<groupId>com.test</groupId>
-	<artifactId>awsLambdaTest</artifactId>
+	<artifactId>AWSLambdaS3Spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>awsLambdaTest</name>
-	<description>Demo project for Spring Boot</description>
+	<name>AWSLambdaS3Spring</name>
+	<description>Demo project for Spring Boot with aws lambda and s3</description>
 
 	<properties>
 		<java.version>1.8</java.version>
